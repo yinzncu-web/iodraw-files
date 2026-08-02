@@ -31,6 +31,9 @@
         <mxCell id="q1Panel" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7FBF9;strokeColor=#5C9B85;strokeWidth=2;arcSize=10;" parent="1" vertex="1">
           <mxGeometry x="40" y="215" width="730" height="610" as="geometry" />
         </mxCell>
+        <mxCell id="jmQoUd3Q4VwujKTANugA-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q1Header" target="d1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="q1Header" value="问题一：线粒体功能模块构建" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3E806B;strokeColor=#3E806B;fontColor=#FFFFFF;fontFamily=SimHei;fontSize=18;fontStyle=1;arcSize=10;" parent="1" vertex="1">
           <mxGeometry x="60" y="230" width="690" height="42" as="geometry" />
         </mxCell>
@@ -139,8 +142,10 @@
         <mxCell id="submit" value="输出373990条预测&lt;br&gt;&lt;b&gt;最终提交CSV&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4D6;strokeColor=#C89B36;strokeWidth=2;fontColor=#5B4518;fontFamily=SimHei;fontSize=14;fontStyle=1;arcSize=10;" parent="1" vertex="1">
           <mxGeometry x="1210" y="1010" width="290" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="e_d_q1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#607D8B;strokeWidth=1.4;endArrow=block;endFill=1;" parent="1" source="dataPanel" target="q1Header" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="e_d_q1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#607D8B;strokeWidth=1.4;endArrow=block;endFill=1;" parent="1" source="dataPanel" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="e_d_q2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#607D8B;strokeWidth=1.4;endArrow=block;endFill=1;" parent="1" source="dataPanel" target="q2Header" edge="1">
           <mxGeometry relative="1" as="geometry" />
