@@ -240,7 +240,7 @@
         <mxCell id="e19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#52789F;strokeWidth=1.4;endArrow=block;endFill=1;" parent="1" source="rank" target="fusion" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bridgeDirect" value="模块指标输入" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#52789F;strokeWidth=1.4;dashed=1;dashPattern=5 4;endArrow=block;endFill=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;fontFamily=Helvetica;fontSize=11;fontStyle=1;fontColor=default;labelBackgroundColor=default;align=center;verticalAlign=middle;" parent="1" source="q1out" target="f1" edge="1">
+        <mxCell id="bridgeDirect" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#52789F;strokeWidth=1.4;dashed=1;dashPattern=5 4;endArrow=block;endFill=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;fontFamily=Helvetica;fontSize=11;fontStyle=1;fontColor=default;labelBackgroundColor=default;align=center;verticalAlign=middle;" parent="1" source="q1out" target="f1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="800" y="787" />
