@@ -103,7 +103,7 @@
         <mxCell id="rank" value="细胞内排序增强&lt;br&gt;重点学习Top5/10/15" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3EDF7;strokeColor=#6C8FB3;fontColor=#24323D;fontFamily=Microsoft YaHei;fontSize=13;arcSize=10;" parent="1" vertex="1">
           <mxGeometry x="870" y="710" width="255" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="fusion" value="分场景融合&lt;div&gt;$$\widehat{y}_{c g}^{\text {final }}=\alpha \widehat{y}_{c g}^{E 3}+(1-\alpha) q_{c g}^{\text {rank }}$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DCE9F5;strokeColor=#52789F;strokeWidth=1.5;fontColor=#24323D;fontFamily=Microsoft YaHei;fontSize=13;arcSize=10;" parent="1" vertex="1">
+        <mxCell id="fusion" value="分场景融合&lt;span style=&quot;background-color: initial;&quot;&gt;$$\widehat{y}_{c g}^{\text {final }}=\alpha \widehat{y}_{c g}^{E 3}+(1-\alpha) q_{c g}^{\text {rank }}$$&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DCE9F5;strokeColor=#52789F;strokeWidth=1.5;fontColor=#24323D;fontFamily=Microsoft YaHei;fontSize=13;arcSize=10;" parent="1" vertex="1">
           <mxGeometry x="1210" y="710" width="300" height="62" as="geometry" />
         </mxCell>
         <mxCell id="bridge" value="问题一的模块指标作为问题二核心输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4D6;strokeColor=#C89B36;dashed=1;dashPattern=5 4;fontColor=#5B4518;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=1;arcSize=10;" parent="1" vertex="1">
