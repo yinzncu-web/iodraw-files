@@ -55,7 +55,7 @@
         <mxCell id="q1A" value="融合相似度与聚类距离&lt;br&gt;&lt;b&gt;A = H ⊙ [ηJ + (1−η)R]　，　D = 1−A&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D6EBE3;strokeColor=#3E806B;strokeWidth=1.5;fontColor=#24323D;fontFamily=Microsoft YaHei;fontSize=14;arcSize=10;" parent="1" vertex="1">
           <mxGeometry x="160" y="490" width="490" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="q1cluster" value="K=8～12 共识层次聚类&lt;br&gt;平均连接 + 100次Bootstrap" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDEFE8;strokeColor=#5C9B85;fontColor=#24323D;fontFamily=Microsoft YaHei;fontSize=13;arcSize=10;" parent="1" vertex="1">
+        <mxCell id="q1cluster" value="&lt;b&gt;K=8～12&lt;/b&gt; 共识层次聚类&lt;br&gt;平均连接 + &lt;b&gt;100&lt;/b&gt;次&lt;b&gt;Bootstrap&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDEFE8;strokeColor=#5C9B85;fontColor=#24323D;fontFamily=Microsoft YaHei;fontSize=13;arcSize=10;" parent="1" vertex="1">
           <mxGeometry x="75" y="595" width="270" height="64" as="geometry" />
         </mxCell>
         <mxCell id="q1eval" value="稳定性、轮廓系数、纯度&lt;br&gt;与非冗余度综合评价" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDEFE8;strokeColor=#5C9B85;fontColor=#24323D;fontFamily=Microsoft YaHei;fontSize=13;arcSize=10;" parent="1" vertex="1">
