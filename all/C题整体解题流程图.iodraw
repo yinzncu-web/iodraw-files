@@ -220,11 +220,13 @@
         <mxCell id="e19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#52789F;strokeWidth=1.4;endArrow=block;endFill=1;" parent="1" source="rank" target="fusion" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bridge2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#C89B36;strokeWidth=1.5;dashed=1;dashPattern=5 4;endArrow=block;endFill=1;" parent="1" source="bridge" target="f1" edge="1">
+        <mxCell id="bridge2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#C89B36;strokeWidth=1.5;dashed=1;dashPattern=5 4;endArrow=block;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="1280" as="sourcePoint" />
+            <mxPoint x="775" y="1353" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="818" y="470" />
-              <mxPoint x="933" y="470" />
+              <mxPoint x="660" y="1369" />
+              <mxPoint x="775" y="1369" />
             </Array>
           </mxGeometry>
         </mxCell>
