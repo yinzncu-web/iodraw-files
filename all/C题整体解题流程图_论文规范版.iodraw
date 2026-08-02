@@ -40,6 +40,9 @@
         <mxCell id="q1B" value="基因—通路归属矩阵 B" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDEFE8;strokeColor=#5C9B85;fontColor=#24323D;fontFamily=SimHei;fontSize=14;arcSize=12;" parent="1" vertex="1">
           <mxGeometry x="315" y="295" width="210" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="jmQoUd3Q4VwujKTANugA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q1score" target="q1B">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="q1score" value="跨细胞通路得分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDEFE8;strokeColor=#5C9B85;fontColor=#24323D;fontFamily=SimHei;fontSize=14;arcSize=12;" parent="1" vertex="1">
           <mxGeometry x="570" y="295" width="160" height="54" as="geometry" />
         </mxCell>
