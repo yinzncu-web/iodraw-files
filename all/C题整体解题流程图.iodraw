@@ -29,7 +29,7 @@
           <mxGeometry x="1260" y="96" width="235" height="62" as="geometry" />
         </mxCell>
         <mxCell id="q1Panel" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7FBF9;strokeColor=#5C9B85;strokeWidth=2;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="40" y="230" width="730" height="610" as="geometry" />
+          <mxGeometry x="40" y="240" width="730" height="610" as="geometry" />
         </mxCell>
         <mxCell id="q1Header" value="问题一：线粒体功能模块构建" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3E806B;strokeColor=#3E806B;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=1;arcSize=10;" parent="1" vertex="1">
           <mxGeometry x="60" y="230" width="690" height="42" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="105" y="766" width="600" height="42" as="geometry" />
         </mxCell>
         <mxCell id="q2Panel" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7FAFD;strokeColor=#6C8FB3;strokeWidth=2;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="830" y="215" width="730" height="610" as="geometry" />
+          <mxGeometry x="830" y="230" width="730" height="610" as="geometry" />
         </mxCell>
         <mxCell id="q2Header" value="问题二：细胞—基因依赖性预测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#52789F;strokeColor=#52789F;fontColor=#FFFFFF;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=1;arcSize=10;" parent="1" vertex="1">
           <mxGeometry x="850" y="230" width="690" height="42" as="geometry" />
