@@ -37,7 +37,7 @@
         <mxCell id="q1pre" value="数据预处理与ID匹配" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDEFE8;strokeColor=#5C9B85;fontColor=#24323D;fontFamily=SimHei;fontSize=14;arcSize=12;" parent="1" vertex="1">
           <mxGeometry x="80" y="295" width="190" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="jmQoUd3Q4VwujKTANugA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q1B" target="q1score">
+        <mxCell id="jmQoUd3Q4VwujKTANugA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3E806B;strokeWidth=1.4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=1;" edge="1" parent="1" source="q1B" target="q1score">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q1B" value="基因—通路归属矩阵 B" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDEFE8;strokeColor=#5C9B85;fontColor=#24323D;fontFamily=SimHei;fontSize=14;arcSize=12;" parent="1" vertex="1">
