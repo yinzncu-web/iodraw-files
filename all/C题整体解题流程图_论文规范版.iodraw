@@ -4,14 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="title" value="C题：线粒体基因依赖性建模整体流程" style="text;html=1;align=center;verticalAlign=middle;fontFamily=SimHei;fontSize=26;fontStyle=1;fontColor=#24323D;" parent="1" vertex="1">
+        <mxCell id="title" value="线粒体基因依赖性建模整体流程" style="text;html=1;align=center;verticalAlign=middle;fontFamily=SimHei;fontSize=26;fontStyle=1;fontColor=#24323D;" parent="1" vertex="1">
           <mxGeometry x="300" y="15" width="1000" height="42" as="geometry" />
         </mxCell>
         <mxCell id="dataPanel" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F8FA;strokeColor=#8FAAB8;strokeWidth=1.5;arcSize=12;" parent="1" vertex="1">
           <mxGeometry x="40" y="70" width="1520" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dataHeader" value="数据输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#607D8B;strokeColor=#607D8B;fontColor=#FFFFFF;fontFamily=SimHei;fontSize=17;fontStyle=1;arcSize=12;" parent="1" vertex="1">
-          <mxGeometry x="60" y="86" width="130" height="38" as="geometry" />
+          <mxGeometry x="60" y="108" width="130" height="38" as="geometry" />
         </mxCell>
         <mxCell id="d1" value="1123个线粒体相关基因" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF1F5;strokeColor=#8FAAB8;fontColor=#24323D;fontFamily=SimHei;fontSize=14;arcSize=10;" parent="1" vertex="1">
           <mxGeometry x="220" y="96" width="235" height="62" as="geometry" />
