@@ -107,7 +107,7 @@
           <mxGeometry x="1210" y="710" width="300" height="62" as="geometry" />
         </mxCell>
         <mxCell id="bridge" value="问题一的模块指标作为问题二核心输入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4D6;strokeColor=#C89B36;dashed=1;dashPattern=5 4;fontColor=#5B4518;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=1;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="700" y="335" width="190" height="44" as="geometry" />
+          <mxGeometry x="705" y="349" width="190" height="44" as="geometry" />
         </mxCell>
         <mxCell id="valPanel" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FAF9FC;strokeColor=#8E7FA5;strokeWidth=2;arcSize=10;" parent="1" vertex="1">
           <mxGeometry x="40" y="850" width="1520" height="240" as="geometry" />
