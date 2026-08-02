@@ -159,8 +159,11 @@
         <mxCell id="e3a" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#3E806B;strokeWidth=1.4;endArrow=block;endFill=1;" parent="1" source="q1score" target="q1R" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e3b" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#3E806B;strokeWidth=1.4;endArrow=block;endFill=1;" parent="1" source="q1pre" target="q1H" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="e3b" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#3E806B;strokeWidth=1.4;endArrow=block;endFill=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="370" as="sourcePoint" />
+            <mxPoint x="680" y="438" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="e4a" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#3E806B;strokeWidth=1.4;endArrow=block;endFill=1;" parent="1" source="q1J" target="q1A" edge="1">
           <mxGeometry relative="1" as="geometry" />
