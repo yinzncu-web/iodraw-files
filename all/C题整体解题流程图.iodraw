@@ -251,6 +251,12 @@
         <mxCell id="T20gahdtp3PPBHzVzIj6-1" value="$$\widehat{y}_{c g}^{\text {final }}=\alpha \widehat{y}_{c g}^{E 3}+(1-\alpha) q_{c g}^{\text {rank }}$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="1690" width="220" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="T20gahdtp3PPBHzVzIj6-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="380" as="sourcePoint" />
+            <mxPoint x="350" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
