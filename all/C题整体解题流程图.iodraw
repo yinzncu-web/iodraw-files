@@ -250,12 +250,12 @@
         <mxCell id="T20gahdtp3PPBHzVzIj6-1" value="$$a^2 $$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="1690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T20gahdtp3PPBHzVzIj6-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="T20gahdtp3PPBHzVzIj6-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q1K" target="f1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="570" as="sourcePoint" />
             <mxPoint x="710" y="520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="740" y="580" />
+              <mxPoint x="860" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
