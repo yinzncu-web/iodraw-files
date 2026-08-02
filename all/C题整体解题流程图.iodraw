@@ -230,11 +230,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="T20gahdtp3PPBHzVzIj6-3" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bridge1">
-          <mxGeometry x="-0.2848" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bridge2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#C89B36;strokeWidth=1.5;dashed=1;dashPattern=5 4;endArrow=block;endFill=1;" parent="1" source="bridge" target="f1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
