@@ -98,7 +98,7 @@
           <mxGeometry x="1365" y="500" width="170" height="56" as="geometry" />
         </mxCell>
         <mxCell id="e3" value="选择 E3 内容残差回归&lt;br&gt;$$\widehat{y}_{c g}^{E 3}=\tilde{y}_{g}+f_{\text {LSBoost }}\left(x_{c g}\right)$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4D6;strokeColor=#C89B36;strokeWidth=2;fontColor=#5B4518;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;arcSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="600" width="360" height="90" as="geometry" />
+          <mxGeometry x="1020" y="600" width="350" height="66" as="geometry" />
         </mxCell>
         <mxCell id="rank" value="细胞内排序增强&lt;br&gt;重点学习Top5/10/15" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3EDF7;strokeColor=#6C8FB3;fontColor=#24323D;fontFamily=Microsoft YaHei;fontSize=13;arcSize=10;" parent="1" vertex="1">
           <mxGeometry x="870" y="710" width="255" height="62" as="geometry" />
