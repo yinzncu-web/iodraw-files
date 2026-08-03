@@ -13,7 +13,7 @@
         <mxCell id="5" value="该基因是否具有&lt;br&gt;训练历史标签？" style="rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#173F5F;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#173F5F;" parent="1" vertex="1">
           <mxGeometry x="650" y="220" width="300" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="" style="rounded=1;arcSize=4;whiteSpace=wrap;html=1;fillColor=#E8F0F6;fillOpacity=72;strokeColor=#477A9E;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="6" value="" style="rounded=1;arcSize=4;whiteSpace=wrap;html=1;fillColor=#edf6f8;fillOpacity=72;strokeColor=#477A9E;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="55" y="375" width="695" height="475" as="geometry" />
         </mxCell>
         <mxCell id="7" value="已见基因预测路径" style="text;html=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=21;fontStyle=1;fontColor=#173F5F;" parent="1" vertex="1">
