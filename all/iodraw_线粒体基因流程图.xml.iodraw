@@ -58,9 +58,6 @@
         <mxCell id="loop" value="&lt;b&gt;解释闭环&lt;/b&gt;&lt;br&gt;状态–损伤–补偿–依赖" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2C7;strokeColor=#D9B64C;strokeWidth=2;fontSize=16;fontFamily=Microsoft YaHei;fontStyle=0;align=center;verticalAlign=middle;dashed=0;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="1135" y="390" width="285" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="e_dataset_p1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;endArrow=block;endFill=0;" parent="1" source="dataset" target="p1box" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="e_sim_cluster" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;endArrow=block;endFill=0;" parent="1" source="sim" target="cluster" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -93,6 +90,12 @@
         </mxCell>
         <mxCell id="e_p2_loop" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=2;endArrow=block;endFill=0;" parent="1" source="p2box" target="loop" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mTFDK5cIQolXxzd9vSCn-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="160" as="sourcePoint" />
+            <mxPoint x="570" y="110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
