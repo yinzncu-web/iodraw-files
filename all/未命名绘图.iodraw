@@ -7,14 +7,17 @@
         <mxCell id="GY0EpaIlRTLgp6YqOt54-1" value="原始数据集&lt;div&gt;细胞基因表达、通路得分、细胞元数据、训练依赖标签&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-730" y="301" width="341" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GY0EpaIlRTLgp6YqOt54-2" value="问题一：原始数据集&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GY0EpaIlRTLgp6YqOt54-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-717" y="415" width="683" height="139" as="geometry" />
         </mxCell>
         <mxCell id="GY0EpaIlRTLgp6YqOt54-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-697" y="486" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GY0EpaIlRTLgp6YqOt54-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-412" y="451" width="120" height="60" as="geometry" />
+          <mxGeometry x="-498" y="486" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GY0EpaIlRTLgp6YqOt54-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-412" y="458" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
