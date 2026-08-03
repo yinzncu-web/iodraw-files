@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram id="fig06-final-model" name="图6 最终预测模型">
-    <mxGraphModel dx="1031" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1050" math="0" shadow="0">
+    <mxGraphModel dx="2156" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1050" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,12 +70,11 @@
         <mxCell id="30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#173F5F;strokeWidth=2.2;" parent="1" source="4" target="5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="31" value="是：V1 / V2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#477A9E;strokeWidth=2.2;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;fontColor=#477A9E;labelBackgroundColor=#FFFFFF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5" target="6" edge="1">
+        <mxCell id="31" value="是：V1 / V2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#477A9E;strokeWidth=2.2;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;fontColor=#477A9E;labelBackgroundColor=#FFFFFF;" parent="1" source="5" edge="1">
           <mxGeometry x="-0.3142" y="-15" relative="1" as="geometry">
             <mxPoint x="400" y="370" as="targetPoint" />
             <Array as="points">
               <mxPoint x="400" y="275" />
-              <mxPoint x="400" y="375" />
             </Array>
             <mxPoint x="1" as="offset" />
           </mxGeometry>
