@@ -53,7 +53,7 @@
           <mxGeometry x="955" y="595" width="485" height="95" as="geometry" />
         </mxCell>
         <mxCell id="19" value="&lt;b&gt;GO64与GO128分场景融合&lt;/b&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#FCF4DC;strokeColor=#D29B2D;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontColor=#173F5F;" parent="1" vertex="1">
-          <mxGeometry x="995" y="720" width="405" height="58" as="geometry" />
+          <mxGeometry x="995" y="712" width="405" height="58" as="geometry" />
         </mxCell>
         <mxCell id="20" value="&lt;b&gt;V3 / V4基因级预测&lt;/b&gt;&lt;br&gt;不加入E3细胞特异残差" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#147D7E;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontColor=#173F5F;" parent="1" vertex="1">
           <mxGeometry x="1015" y="790" width="365" height="55" as="geometry" />
