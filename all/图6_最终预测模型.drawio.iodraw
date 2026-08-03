@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram id="fig06-final-model" name="图6 最终预测模型">
-    <mxGraphModel dx="573" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1050" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1050" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="650" y="220" width="300" height="110" as="geometry" />
         </mxCell>
         <mxCell id="6" value="" style="rounded=1;arcSize=4;whiteSpace=wrap;html=1;fillColor=#E8F0F6;fillOpacity=72;strokeColor=#477A9E;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="55" y="380" width="695" height="470" as="geometry" />
+          <mxGeometry x="55" y="375" width="695" height="475" as="geometry" />
         </mxCell>
         <mxCell id="7" value="已见基因预测路径" style="text;html=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=21;fontStyle=1;fontColor=#173F5F;" parent="1" vertex="1">
           <mxGeometry x="190" y="390" width="425" height="35" as="geometry" />
@@ -67,7 +67,7 @@
         <mxCell id="30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#173F5F;strokeWidth=2.2;" parent="1" source="4" target="5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="31" value="是：V1 / V2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#477A9E;strokeWidth=2.2;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;fontColor=#477A9E;labelBackgroundColor=#FFFFFF;entryX=0.496;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5" target="6" edge="1">
+        <mxCell id="31" value="是：V1 / V2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#477A9E;strokeWidth=2.2;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;fontColor=#477A9E;labelBackgroundColor=#FFFFFF;" parent="1" source="5" edge="1">
           <mxGeometry x="-0.3142" y="-15" relative="1" as="geometry">
             <mxPoint x="400" y="370" as="targetPoint" />
             <Array as="points">
