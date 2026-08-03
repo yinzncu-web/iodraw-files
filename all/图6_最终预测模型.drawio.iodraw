@@ -22,7 +22,7 @@
         <mxCell id="8" value="&lt;b&gt;V1 暖场景　＋　V2 冷细胞场景&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#477A9E;" parent="1" vertex="1">
           <mxGeometry x="190" y="425" width="425" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="&lt;font face=&quot;Verdana&quot;&gt;该基因在训练集中的&lt;br&gt;历史依赖标签&lt;/font&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#477A9E;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontColor=#173F5F;" parent="1" vertex="1">
+        <mxCell id="9" value="&lt;font face=&quot;Helvetica&quot;&gt;该基因在训练集中的&lt;br&gt;历史依赖标签&lt;/font&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#477A9E;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontColor=#173F5F;" parent="1" vertex="1">
           <mxGeometry x="200" y="465" width="405" height="65" as="geometry" />
         </mxCell>
         <mxCell id="10" value="&lt;b&gt;B1 平滑历史先验&lt;/b&gt;&lt;br&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;μ&lt;/i&gt;&lt;sub&gt;g&lt;/sub&gt;&lt;sup&gt;B1&lt;/sup&gt; = (&lt;i&gt;n&lt;/i&gt;&lt;sub&gt;g&lt;/sub&gt;·ȳ&lt;sub&gt;g&lt;/sub&gt; + 20&lt;i&gt;μ&lt;/i&gt;) / (&lt;i&gt;n&lt;/i&gt;&lt;sub&gt;g&lt;/sub&gt; + 20)&lt;/font&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#477A9E;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontColor=#173F5F;spacing=7;" parent="1" vertex="1">
