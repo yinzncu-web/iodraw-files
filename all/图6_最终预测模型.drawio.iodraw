@@ -19,7 +19,7 @@
         <mxCell id="7" value="已见基因预测路径" style="text;html=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=21;fontStyle=1;fontColor=#173F5F;" parent="1" vertex="1">
           <mxGeometry x="190" y="390" width="425" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="V1 暖场景　＋　V2 冷细胞场景" style="text;html=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#477A9E;" parent="1" vertex="1">
+        <mxCell id="8" value="&lt;b&gt;V1 暖场景　＋　V2 冷细胞场景&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#477A9E;" parent="1" vertex="1">
           <mxGeometry x="190" y="425" width="425" height="25" as="geometry" />
         </mxCell>
         <mxCell id="9" value="该基因在训练集中的&lt;br&gt;历史依赖标签" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#477A9E;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=15;fontColor=#173F5F;" parent="1" vertex="1">
@@ -72,7 +72,7 @@
         </mxCell>
         <mxCell id="31" value="是：V1 / V2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#477A9E;strokeWidth=2.2;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;fontColor=#477A9E;labelBackgroundColor=#FFFFFF;" parent="1" source="5" edge="1">
           <mxGeometry x="-0.3142" y="-15" relative="1" as="geometry">
-            <mxPoint x="400" y="370" as="targetPoint" />
+            <mxPoint x="400" y="380" as="targetPoint" />
             <Array as="points">
               <mxPoint x="400" y="275" />
             </Array>
