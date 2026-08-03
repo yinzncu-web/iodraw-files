@@ -1,17 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram id="iodraw-flowchart" name="Page-1">
-    <mxGraphModel dx="2372" dy="2010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="700" math="0" shadow="0">
+    <mxGraphModel dx="2372" dy="1310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="outer" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=3;fontSize=14;fontFamily=Microsoft YaHei;fontStyle=0;align=center;verticalAlign=middle;dashed=0;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="320" width="1510" height="630" as="geometry" />
-        </mxCell>
         <mxCell id="p2box" value="&lt;b&gt;问题二：三分支融合预测模型&lt;/b&gt;&lt;br&gt;回归、排序、冷启动、GO嵌入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F3FA;strokeColor=#6E93BF;strokeWidth=2;fontSize=17;fontFamily=Microsoft YaHei;fontStyle=0;align=center;verticalAlign=top;dashed=0;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="90" y="320" width="925" height="235" as="geometry" />
-        </mxCell>
-        <mxCell id="inner" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4FAF4;strokeColor=#79A66A;strokeWidth=2;fontSize=14;fontFamily=Microsoft YaHei;fontStyle=0;align=center;verticalAlign=middle;dashed=0;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="105" y="382" width="575" height="160" as="geometry" />
         </mxCell>
         <mxCell id="b0b1" value="&lt;b&gt;B0全局均值、B1基因平滑先验&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DCE9F8;strokeColor=#6E93BF;strokeWidth=2;fontSize=15;fontFamily=Microsoft YaHei;fontStyle=0;align=center;verticalAlign=middle;dashed=0;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="125" y="398" width="265" height="38" as="geometry" />
