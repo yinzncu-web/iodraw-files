@@ -7,9 +7,6 @@
         <mxCell id="2" value="问题二：最终版细胞—基因依赖性预测模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=28;fontStyle=1;fontColor=#173F5F;" parent="1" vertex="1">
           <mxGeometry x="300" y="25" width="1000" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="按基因是否具有历史标签分流，分别处理已见基因与冷基因" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=15;fontColor=#596773;" parent="1" vertex="1">
-          <mxGeometry x="400" y="70" width="800" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="4" value="细胞—基因配对样本&lt;br&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(&lt;i&gt;c&lt;/i&gt;, &lt;i&gt;g&lt;/i&gt;)&lt;/font&gt;" style="rounded=1;arcSize=16;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#E2ECF4;strokeColor=#173F5F;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#173F5F;" parent="1" vertex="1">
           <mxGeometry x="550" y="115" width="500" height="70" as="geometry" />
         </mxCell>
