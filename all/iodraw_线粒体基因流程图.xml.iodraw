@@ -4,18 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="p2box" value="&lt;b&gt;问题二：三分支融合预测模型&lt;/b&gt;&lt;br&gt;回归、排序、冷启动、GO嵌入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F3FA;strokeColor=#6E93BF;strokeWidth=2;fontSize=17;fontFamily=Microsoft YaHei;fontStyle=0;align=center;verticalAlign=top;dashed=0;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="90" y="320" width="925" height="235" as="geometry" />
-        </mxCell>
-        <mxCell id="b0b1" value="&lt;b&gt;B0全局均值、B1基因平滑先验&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DCE9F8;strokeColor=#6E93BF;strokeWidth=2;fontSize=15;fontFamily=Microsoft YaHei;fontStyle=0;align=center;verticalAlign=middle;dashed=0;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="125" y="398" width="265" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="validation" value="&lt;b&gt;四场景验证&lt;/b&gt;&lt;br&gt;暖启动、冷细胞、冷基因、双冷" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EDE3F4;strokeColor=#8E6FA8;strokeWidth=2;fontSize=16;fontFamily=Microsoft YaHei;fontStyle=0;align=center;verticalAlign=middle;dashed=0;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="1135" y="110" width="285" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="ablation" value="&lt;b&gt;消融实验与鲁棒测试&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDEFD9;strokeColor=#79A66A;strokeWidth=2;fontSize=16;fontFamily=Microsoft YaHei;fontStyle=0;align=center;verticalAlign=middle;dashed=0;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="1135" y="250" width="285" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="loop" value="&lt;b&gt;解释闭环&lt;/b&gt;&lt;br&gt;状态–损伤–补偿–依赖" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2C7;strokeColor=#D9B64C;strokeWidth=2;fontSize=16;fontFamily=Microsoft YaHei;fontStyle=0;align=center;verticalAlign=middle;dashed=0;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="1135" y="390" width="285" height="90" as="geometry" />
         </mxCell>
