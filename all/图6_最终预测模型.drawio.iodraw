@@ -40,7 +40,7 @@
         <mxCell id="14" value="冷基因预测路径" style="text;html=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=21;fontStyle=1;fontColor=#173F5F;" parent="1" vertex="1">
           <mxGeometry x="985" y="390" width="425" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="15" value="&lt;b&gt;V3 冷基因场景　＋　V4 双冷场景&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#147D7E;" parent="1" vertex="1">
+        <mxCell id="15" value="&lt;b&gt;V3 冷基因场景　＋　V4 双冷启动场景&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#147D7E;" parent="1" vertex="1">
           <mxGeometry x="985" y="425" width="425" height="25" as="geometry" />
         </mxCell>
         <mxCell id="16" value="&lt;b&gt;题内基因内容特征&lt;/b&gt;&lt;br&gt;通路、功能、可靠度&lt;br&gt;及表达摘要" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#147D7E;strokeWidth=2;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#173F5F;" parent="1" vertex="1">
